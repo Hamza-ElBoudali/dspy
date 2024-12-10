@@ -1,0 +1,147 @@
+Question 0: Edit the following sentence to make it more concise. He ran to the bus stop in order to catch the bus that was due to arrive in five minutes.
+Vanilla Answer: He ran to the bus stop to catch the bus arriving in five minutes.
+Bootstrap Answer: He ran to the bus stop to catch the bus arriving in five minutes.
+Cluster Answer: He ran to the bus stop to catch the bus arriving in five minutes.
+
+Question 1: Generate a poem with 10 lines. 
+Vanilla Answer: The evening light shimmers on the shore  
+Softly the waves echo around and more  
+As I bask in the sun, my worries are all gone  
+The sound of seagulls I now foolishly ignore  
+Glistening sand beckons me with a silent plea  
+Glistening seawater, cool to the touch and refreshingly free  
+The evening brings peace, yet I can't find any  
+But maybe in the morning there'll be time for me  
+My bottled peacefulness, I uncork and pour  
+The sound of the ocean lulls me even more
+Bootstrap Answer: The evening light shimmers on the shore,  
+Softly the waves echo around and more.  
+As I bask in the sun, my worries are all gone,  
+The sound of seagulls I now foolishly ignore.  
+Glistening sand beckons me with a silent plea,  
+Glistening seawater, cool to the touch and refreshingly free.  
+The evening brings peace, yet I can't find any,  
+But maybe in the morning there'll be time for me.  
+My bottled peacefulness, I uncork and pour,  
+The sound of the ocean lulls me even more.  
+And for just a moment, I close my eyes and behold,  
+The vastness of the ocean, to my soul I now unfold.
+Cluster Answer: The evening light shimmers on the shore  
+Softly the waves echo around and more  
+As I bask in the sun, my worries are all gone  
+The sound of seagulls I now foolishly ignore  
+Glistening sand beckons me with a silent plea  
+Glistening seawater, cool to the touch and refreshingly free  
+The evening brings peace, yet I can't find any  
+But maybe in the morning there'll be time for me  
+My bottled peacefulness, I uncork and pour  
+The sound of the ocean lulls me even more  
+And for just a moment I close my eyes and behold  
+The vastness of the ocean, to my soul I now unfold.
+
+Question 2: Convert from celsius to fahrenheit. Temperature in Celsius: 15
+Vanilla Answer: Temperature in Fahrenheit: 59
+Bootstrap Answer: Temperature in Fahrenheit: 59
+Cluster Answer: Temperature in Fahrenheit: 59
+
+Question 3: Arrange the given numbers in ascending order. 2, 4, 0, 8, 3
+Vanilla Answer: 0, 2, 3, 4, 8
+Bootstrap Answer: 0, 2, 3, 4, 8
+Cluster Answer: 0, 2, 3, 4, 8
+
+Question 4: Calculate the total surface area of a cube with a side length of 5 cm. 
+Vanilla Answer: Total surface area of the cube: 150 cm²
+Bootstrap Answer: Total surface area of the cube: 150 cm²
+Cluster Answer: Total surface area of the cube: 150 cm^2
+
+Question 5: What is the force on a 1 kg mass due to the gravitational force? 
+Vanilla Answer: The force on a 1 kg mass due to the gravitational force is 9.8 N.
+Bootstrap Answer: The force on a 1 kg mass due to the gravitational force is 9.8 N.
+Cluster Answer: The force on a 1 kg mass due to the gravitational force is 9.8 N.
+
+Question 6: Provide one example for a cultural practice. 
+Vanilla Answer: An example of a cultural practice is the Japanese tea ceremony.
+Bootstrap Answer: An example of a cultural practice is the Japanese tea ceremony.
+Cluster Answer: An example of a cultural practice is the Japanese tea ceremony.
+
+Question 7: Given a set of numbers, find the maximum value. Set: {10, 3, 25, 6, 16}
+Vanilla Answer: The maximum value is 25.
+Bootstrap Answer: The maximum value is 25.
+Cluster Answer: The maximum value is 25.
+
+Question 8: Give two examples of a liquid. 
+Vanilla Answer: Two examples of liquids are water and oil.
+Bootstrap Answer: Two examples of liquids are water and oil.
+Cluster Answer: Two examples of liquids are water and oil.
+
+Question 9: What is the product of 6 and 2? 
+Vanilla Answer: The product of 6 and 2 is 12.
+Bootstrap Answer: The product of 6 and 2 is 12.
+Cluster Answer: The product of 6 and 2 is 12.
+
+Question 10: What type of plant is a skunk cabbage? 
+Vanilla Answer: Skunk cabbage is a type of perennial flowering plant.
+Bootstrap Answer: Skunk cabbage is a type of perennial flowering plant that belongs to the family Araceae.
+Cluster Answer: Skunk cabbage is a type of perennial flowering plant.
+
+Question 11: Convert the given binary number to its decimal equivalent. 101101
+Vanilla Answer: The decimal equivalent of 101101 is 45.
+Bootstrap Answer: The decimal equivalent of 101101 is 45.
+Cluster Answer: The decimal equivalent of 101101 is 45.
+
+Question 12: Name two types of desert biomes. 
+Vanilla Answer: Two types of desert biomes are xeric and subpolar deserts.
+Bootstrap Answer: Two types of desert biomes are xeric deserts and subpolar deserts.
+Cluster Answer: Two types of desert biomes are xeric and subpolar deserts.
+
+Question 13: Given a sentence, convert it into passive voice. The dog barked at the alley cat.
+Vanilla Answer: The alley cat was barked at by the dog.
+Bootstrap Answer: The alley cat was barked at by the dog.
+Cluster Answer: The alley cat was barked at by the dog.
+
+Question 14: Transform the following sentence into the passive voice I bought a book
+Vanilla Answer: A book was bought by me.
+Bootstrap Answer: A book was bought by me.
+Cluster Answer: A book was bought by me.
+
+Question 15: Create a dialog between two people who are discussing a scientific phenomenon Hydropower
+Vanilla Answer: Person 1: Did you know that hydropower is now being used to generate electricity?  
+Person 2: Really? That’s incredible! How does it work?  
+Person 1: Well, hydropower utilizes the energy of moving water to generate electricity. By capturing and harnessing the energy of falling or flowing water, hydropower can be used for efficient electricity generation.
+Bootstrap Answer: Person 1: Have you heard about hydropower and how it's used to generate electricity?
+
+Person 2: Yes, I have! But I’m not entirely sure how it works. Can you explain it to me?
+
+Person 1: Sure! Hydropower harnesses the energy of moving water, like rivers or waterfalls, to produce electricity. 
+
+Person 2: That sounds fascinating! So, how do they actually convert that energy into electricity?
+
+Person 1: Well, when water flows through a dam or a turbine, it spins the turbine blades. This mechanical energy is then converted into electrical energy using generators.
+
+Person 2: Wow, that’s really efficient! Are there any environmental benefits to using hydropower?
+
+Person 1: Definitely! Hydropower is a renewable energy source, which means it can help reduce reliance on fossil fuels and lower greenhouse gas emissions.
+Cluster Answer: Person 1: Did you know that hydropower is now being used to generate electricity?  
+Person 2: Really? That’s incredible! How does it work?  
+Person 1: Well, hydropower utilizes the energy of moving water to generate electricity. By capturing and harnessing the energy of falling or flowing water, hydropower can be used for efficient electricity generation.
+
+Question 16: Identify the most suitable adverb for the following sentence She works
+Vanilla Answer: She works diligently.
+Bootstrap Answer: She works diligently.
+Cluster Answer: She works diligently.
+
+Question 17: Find the main idea of the following passage Climate change is an increasingly contentious global issue. It is already having a drastic effect on the environment and human lives. We are already seeing an increase in extreme weather events and rising sea levels, both of which have a major impact on the planet.
+Vanilla Answer: The main idea of the passage is that climate change is a global issue that is having a detrimental effect on the environment and has caused an increase in extreme weather events and rising sea levels.
+Bootstrap Answer: The main idea of the passage is that climate change is a global issue that is having a detrimental effect on the environment and has caused an increase in extreme weather events and rising sea levels.
+Cluster Answer: The main idea of the passage is that climate change is a global issue that is having a detrimental effect on the environment and has caused an increase in extreme weather events and rising sea levels.
+
+Question 18: Analyze the tone of the following sentences I am so upset with you right now
+Vanilla Answer: The tone of the sentences is angry and accusatory.
+Bootstrap Answer: The tone of the sentences is angry and accusatory, as the speaker expresses strong negative emotions and directly addresses someone with dissatisfaction.
+Cluster Answer: The tone of the sentences is angry and accusatory.
+
+Question 19: Construct an argument to defend the following statement Alternative energy sources are critical to solving the climate crisis
+Vanilla Answer: Alternative energy sources are absolutely vital in order to mitigate the most detrimental impacts of climate change. As the world transitions away from fossil fuels and towards more sustainable sources of energy, such as wind, solar, and hydropower, we can reduce the number of greenhouse gases in the atmosphere and prevent further warming of our planet. Additionally, using renewable and alternative energy sources will create thousands of jobs and can help to create a healthy, stable economy. Investing in alternative energy sources is a sound decision and a necessary step if we want to effectively address the climate crisis.
+Bootstrap Answer: Alternative energy sources are absolutely vital in order to mitigate the most detrimental impacts of climate change. As the world transitions away from fossil fuels and towards more sustainable sources of energy, such as wind, solar, and hydropower, we can reduce the number of greenhouse gases in the atmosphere and prevent further warming of our planet. Additionally, using renewable and alternative energy sources will create thousands of jobs and can help to create a healthy, stable economy. Investing in alternative energy sources is a sound decision and a necessary step if we want to effectively address the climate crisis.
+Cluster Answer: Alternative energy sources are absolutely vital in order to mitigate the most detrimental impacts of climate change. As the world transitions away from fossil fuels and towards more sustainable sources of energy, such as wind, solar, and hydropower, we can reduce the number of greenhouse gases in the atmosphere and prevent further warming of our planet. Additionally, using renewable and alternative energy sources will create thousands of jobs and can help to create a healthy, stable economy. Investing in alternative energy sources is a sound decision and a necessary step if we want to effectively address the climate crisis.
+
