@@ -63,6 +63,7 @@ A couple improvements that can be made:
 More broadly, there are many possibilities to explore in this space of ensembling and automatic selection of optimizers. At one end of the spectrum, without compiling multiple times, we can automatically select an optimizer by:
 - Using a rule-based system (automating whatever rules DSPy currently tells users to apply when choosing an optimizer)
 - Learning a classifier to select the best optimizer given a program
+  
 At the other end, we can form an ensemble of compiled programs (ie the base program compiled with different optimizers) and:
 - Brute force evaluate them all on a test set, choosing the one that does best (or the one that does best on the training set + metric during compilation)
 - Run all of them on an input and learn a classifier to select the final answer (MoRE approach)
